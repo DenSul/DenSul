@@ -21,7 +21,7 @@
 <br />
 <br />
 <p vertical-align="top">
-  <img align="left" vertical-align="top" src="https://github-readme-stats.vercel.app/api?username=densul&show_icons=true&card_width=450&locale=en&&theme=dracula&count_private=true" alt="densul" />
+  <img align="left" vertical-align="top" src="https://github-readme-stats.vercel.app/api?username=densul&show_icons=false&include_all_commits=true&card_width=450&locale=en&&theme=dracula&count_private=true" alt="densul" />
   <img align="right" vertical-align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=densul&show_icons=true&locale=en&layout=compact&theme=dracula" alt="densul" />
 </p>
 
