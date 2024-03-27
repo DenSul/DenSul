@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm Sultanov Denis</h1>
 <h3 align="left">Backend developer from Yekaterinburg.</h3>
 
-- 🔭 I’m currently working on [Boxberry](https://boxberry.ru)
+- 🔭 I’m currently working on skbt.
 
-- 🌱 I’m currently learning **Go**
-
-- 💬 Ask me about **PHP, symfony**
+- 💬 Ask me about **Golang, PHP, symfony**
 
 - 📫 How to reach me **sultanden@gmail.com**
 
