@@ -23,24 +23,21 @@ Building scalable agent systems, autonomous news digest pipelines, and tool inte
   <a href="https://python.langchain.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   </a>
-  <!-- LlamaIndex -->
-  <a href="https://www.llamaindex.ai" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LlamaIndex-4B5563?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
+  <!-- CrewAI -->
+  <a href="https://www.crewai.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
   </a>
-  <!-- OpenAI -->
-  <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <!-- Temporal -->
+  <a href="https://temporal.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="Temporal" />
   </a>
-  <!-- Vector DBs -->
-  <a href="https://pinecone.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pinecone-5C3B8C?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <!-- OpenClaw -->
+  <a href="https://openclaw.ai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=openclaw&logoColor=white" alt="OpenClaw" />
   </a>
-  <a href="https://weaviate.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Weaviate-2D5AA0?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
-  </a>
-  <!-- RAG -->
-  <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=rag&logoColor=white" alt="RAG" />
+  <!-- Qdrant -->
+  <a href="https://qdrant.tech" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Qdrant-2D5AA0?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
   </a>
 </p>
 
@@ -63,7 +60,7 @@ Building scalable agent systems, autonomous news digest pipelines, and tool inte
 
 ## ⚡ Fun Fact
 
-I have a beautiful French Bulldog named **Silvana** (Сильвана Ветрокрылая) — she sheds a lot but totally worth it! 🐶
+I have a beautiful French Bulldog named **Sylvana** (inspired by Sylvanas from Warcraft) — she sheds a lot but totally worth it! 🐶
 
 ---
 
@@ -88,7 +85,6 @@ I have a beautiful French Bulldog named **Silvana** (Сильвана Ветро
   <!-- AI/ML additions -->
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.anthropic.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/anthropic.png" alt="anthropic" width="40" height="40"/> </a>
 </p>
 
 ---
