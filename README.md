@@ -89,13 +89,9 @@ I have a beautiful French Bulldog named **Sylvana** (inspired by Sylvanas from W
 
 ---
 
-## 📊 GitHub Stats
+<br />
 
-<p vertical-align="top">
-  <img align="left" vertical-align="top" width="450" src="https://github-readme-stats.vercel.app/api?username=densul&show_icons=false&include_all_commits=true&card_width=450&locale=en&&theme=dracula&count_private=true" alt="densul" />
-  <img align="right" vertical-align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=densul&show_icons=true&locale=en&layout=compact&theme=dracula" alt="densul" />
+<p align="center">
+  <strong>🚀 Keep building, keep exploring.</strong><br />
+  <i>Profile refreshed with ❤️ & 🤖</i>
 </p>
-
----
-
-*Profile refreshed with ❤️ & 🤖*
